@@ -6,3 +6,6 @@ debug
 foo.*
 *.log
 data
+
+# leftover from the previous vim-plug config
+plugged/

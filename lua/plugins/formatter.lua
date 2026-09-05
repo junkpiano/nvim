@@ -1,5 +1,5 @@
 return {
-  // required: :MasonInstall clang-format
+  -- required: :MasonInstall clang-format
   "stevearc/conform.nvim",
   opts = function()
     local opts = {
